@@ -7,3 +7,4 @@ Gerenciador de senha com banco de dados local, o script server basicamente para 
 -atençao o programa so salva as senha em Base64 para os inputs da senha o programa decodifica e exibi da forma normal
 -para cada senha guardada vc ira informa do que se trata a senha (como site, jogos, programas, senha locais, etc) para facilitar as 
 o seu uso
+-atençao arquivo setup.py e para compilçao do script
